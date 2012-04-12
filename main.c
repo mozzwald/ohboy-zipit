@@ -1461,7 +1461,7 @@ int main(int argc, char *argv[]){
 #else
 	rc_command("set romdir \"roms\"");
 #endif /* DINGOO_NATIVE */
-	rc_sourcefile("ohboy.rc");
+	rc_sourcefile("/etc/ohboy.rc");
 	rc_sourcefile("bindings.rc");
 
 	mkdir("saves", 0777); /* FIXME lookup "savedir" rc variable and mkdir that instead? */
