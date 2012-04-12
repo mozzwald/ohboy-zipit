@@ -1365,10 +1365,10 @@ int main(int argc, char *argv[]){
 	rc_command("bind down +down");
 	rc_command("bind left +left");
 	rc_command("bind right +right");
-	rc_command("bind d +a");
-	rc_command("bind s +b");
-	rc_command("bind enter +start");
-	rc_command("bind space +select");
+	rc_command("bind space +a");
+	rc_command("bind shift +b");
+	rc_command("bind ctrl +start");
+	//rc_command("bind space +select");
 	rc_command("bind tab +select");
 	rc_command("bind joyup +up");
 	rc_command("bind joydown +down");
