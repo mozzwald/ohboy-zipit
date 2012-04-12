@@ -1,5 +1,5 @@
 
-#include "SDL/sdl.h"
+#include "SDL/SDL.h"
 #include <fcntl.h>
 #include <sys/mman.h>
 #include <sys/ioctl.h>
