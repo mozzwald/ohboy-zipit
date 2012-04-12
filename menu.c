@@ -1264,6 +1264,8 @@ launcher:
 			if(!menu_about()) goto launcher;
 			break;
 		case 5:
+			SDL_QuitSubSystem(SDL_INIT_EVERYTHING);
+			SDL_Quit();
 			exit(0);
 		default:
 			goto launcher;
