@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/19/trunk/asm/i386
+END
+refresh.s
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/16/trunk/asm/i386/refresh.s
+END
+lcd.s
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/14/trunk/asm/i386/lcd.s
+END
+asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/16/trunk/asm/i386/asm.h
+END
+cpu.s
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/19/trunk/asm/i386/cpu.s
+END
+asmnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/16/trunk/asm/i386/asmnames.h
+END

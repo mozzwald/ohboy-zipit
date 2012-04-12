@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/143/trunk/unzip
+END
+ioapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/143/trunk/unzip/ioapi.c
+END
+unzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/143/trunk/unzip/unzip.c
+END
+ioapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/143/trunk/unzip/ioapi.h
+END
+unzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/143/trunk/unzip/unzip.h
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/148/trunk/docs
+END
+WHATSNEW
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/148/trunk/docs/WHATSNEW
+END
+HACKING
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/19/trunk/docs/HACKING
+END
+CONFIG
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/20/trunk/docs/CONFIG
+END
+FAQ
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/20/trunk/docs/FAQ
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/148/trunk/docs/CHANGES
+END
+LIBERTY
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/17/trunk/docs/LIBERTY
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/20/trunk/docs/CREDITS
+END

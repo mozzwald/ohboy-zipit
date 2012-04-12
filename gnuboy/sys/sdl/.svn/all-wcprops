@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/142/trunk/sys/sdl
+END
+SFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/108/trunk/sys/sdl/SFont.h
+END
+sdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/142/trunk/sys/sdl/sdl.c
+END
+keymap.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/97/trunk/sys/sdl/keymap.c
+END
+SFont.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/108/trunk/sys/sdl/SFont.c
+END
+font8px.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/92/trunk/sys/sdl/font8px.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/20/trunk/etc
+END
+classic.rc
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/17/trunk/etc/classic.rc
+END
+sample.rc
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/17/trunk/etc/sample.rc
+END
+palettes.rc
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/19/trunk/etc/palettes.rc
+END
+filters.rc
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/20/trunk/etc/filters.rc
+END
+laguna.pgp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/3/trunk/etc/laguna.pgp
+END

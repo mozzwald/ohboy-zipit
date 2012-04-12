@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/20/trunk/sys/x11
+END
+xlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/20/trunk/sys/x11/xlib.c
+END
+keymap.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/20/trunk/sys/x11/keymap.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/137/trunk/sys/windows
+END
+resource.rc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/33/trunk/sys/windows/resource.rc
+END
+windows.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/137/trunk/sys/windows/windows.c
+END
+gameboy.ico
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/18/trunk/sys/windows/gameboy.ico
+END
